@@ -1,0 +1,864 @@
+[
+  {
+    "name": "OPPO",
+    "file": "OPPO.webp",
+    "bounds": {
+      "width": 240,
+      "height": 240,
+      "x": 13.5,
+      "y": 93.5,
+      "visibleWidth": 213,
+      "visibleHeight": 53
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "skii",
+    "file": "skii.webp",
+    "bounds": {
+      "width": 658,
+      "height": 269,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 658,
+      "visibleHeight": 268.5
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "ThinkPad",
+    "file": "ThinkPad.webp",
+    "bounds": {
+      "width": 658,
+      "height": 342,
+      "x": 5.5,
+      "y": 55.5,
+      "visibleWidth": 647,
+      "visibleHeight": 215
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "vivo",
+    "file": "vivo.png",
+    "bounds": {
+      "width": 720,
+      "height": 549,
+      "x": 50.5,
+      "y": 192.5,
+      "visibleWidth": 619,
+      "visibleHeight": 164
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "乌苏啤酒",
+    "file": "乌苏啤酒.png",
+    "bounds": {
+      "width": 800,
+      "height": 800,
+      "x": 19.5,
+      "y": 56.5,
+      "visibleWidth": 754,
+      "visibleHeight": 678
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "伊利",
+    "file": "伊利.webp",
+    "bounds": {
+      "width": 658,
+      "height": 506,
+      "x": 1.5,
+      "y": 1.5,
+      "visibleWidth": 655,
+      "visibleHeight": 496
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "元气森林",
+    "file": "元气森林.jpg",
+    "bounds": {
+      "width": 186,
+      "height": 186,
+      "x": 12.5,
+      "y": 72.5,
+      "visibleWidth": 161,
+      "visibleHeight": 41
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "华为",
+    "file": "华为.png",
+    "bounds": {
+      "width": 377,
+      "height": 105,
+      "x": 14.5,
+      "y": 25.5,
+      "visibleWidth": 352,
+      "visibleHeight": 62
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "可复美",
+    "file": "可复美.webp",
+    "bounds": {
+      "width": 442,
+      "height": 149,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 442,
+      "visibleHeight": 149
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "名创优品",
+    "file": "名创优品.png",
+    "bounds": {
+      "width": 600,
+      "height": 300,
+      "x": 185.5,
+      "y": 16.5,
+      "visibleWidth": 228,
+      "visibleHeight": 268
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "君乐宝",
+    "file": "君乐宝.webp",
+    "bounds": {
+      "width": 658,
+      "height": 404,
+      "x": 10.5,
+      "y": 12.5,
+      "visibleWidth": 630,
+      "visibleHeight": 379
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "奥利奥",
+    "file": "奥利奥.png",
+    "bounds": {
+      "width": 10966,
+      "height": 4793,
+      "x": 486.5,
+      "y": 241.5,
+      "visibleWidth": 9772,
+      "visibleHeight": 4218
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "安踏",
+    "file": "安踏.jpg",
+    "bounds": {
+      "width": 683,
+      "height": 458,
+      "x": 65.5,
+      "y": 71.5,
+      "visibleWidth": 582,
+      "visibleHeight": 321
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "小罐茶集团",
+    "file": "小罐茶集团.png",
+    "bounds": {
+      "width": 1796,
+      "height": 489,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 1796,
+      "visibleHeight": 489
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "小野和子",
+    "file": "小野和子.png",
+    "bounds": {
+      "width": 1198,
+      "height": 251,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 1198,
+      "visibleHeight": 251
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "希宝",
+    "file": "希宝.png",
+    "bounds": {
+      "width": 1490,
+      "height": 1490,
+      "x": 235.5,
+      "y": 293.5,
+      "visibleWidth": 1059,
+      "visibleHeight": 844
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "康师傅",
+    "file": "康师傅.png",
+    "bounds": {
+      "width": 8000,
+      "height": 3783,
+      "x": 45.5,
+      "y": 17.5,
+      "visibleWidth": 7922,
+      "visibleHeight": 3709
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "徕芬",
+    "file": "徕芬.png",
+    "bounds": {
+      "width": 1060,
+      "height": 1060,
+      "x": 83.5,
+      "y": 369.5,
+      "visibleWidth": 919,
+      "visibleHeight": 260
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "德芙",
+    "file": "德芙.jpg",
+    "bounds": {
+      "width": 164,
+      "height": 110,
+      "x": 4.5,
+      "y": 23.5,
+      "visibleWidth": 155,
+      "visibleHeight": 63
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "格力",
+    "file": "格力.png",
+    "bounds": {
+      "width": 768,
+      "height": 432,
+      "x": 29.5,
+      "y": 139.5,
+      "visibleWidth": 703,
+      "visibleHeight": 138
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "毛戈平",
+    "file": "毛戈平.png",
+    "bounds": {
+      "width": 800,
+      "height": 800,
+      "x": 42.5,
+      "y": 343.5,
+      "visibleWidth": 718,
+      "visibleHeight": 92
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "海信",
+    "file": "海信.png",
+    "bounds": {
+      "width": 400,
+      "height": 400,
+      "x": 30.5,
+      "y": 167.5,
+      "visibleWidth": 335,
+      "visibleHeight": 55
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "海天",
+    "file": "海天.png",
+    "bounds": {
+      "width": 2000,
+      "height": 1337,
+      "x": 2.5,
+      "y": 2.5,
+      "visibleWidth": 1995,
+      "visibleHeight": 1331
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "海尔",
+    "file": "海尔.webp",
+    "bounds": {
+      "width": 658,
+      "height": 287,
+      "x": 31.5,
+      "y": 40.5,
+      "visibleWidth": 602,
+      "visibleHeight": 187
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "热风",
+    "file": "热风.jpg",
+    "bounds": {
+      "width": 164,
+      "height": 110,
+      "x": 1.5,
+      "y": 44.5,
+      "visibleWidth": 161,
+      "visibleHeight": 21
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "索尼",
+    "file": "索尼.webp",
+    "bounds": {
+      "width": 300,
+      "height": 300,
+      "x": 13.5,
+      "y": 126.5,
+      "visibleWidth": 273,
+      "visibleHeight": 54
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "绮炫",
+    "file": "绮炫.png",
+    "bounds": {
+      "width": 2211,
+      "height": 1550,
+      "x": 392.5,
+      "y": 252.5,
+      "visibleWidth": 1428,
+      "visibleHeight": 1044
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "维达",
+    "file": "维达.webp",
+    "bounds": {
+      "width": 658,
+      "height": 513,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 658,
+      "visibleHeight": 513
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "美宜佳",
+    "file": "美宜佳.png",
+    "bounds": {
+      "width": 2224,
+      "height": 500,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 2224,
+      "visibleHeight": 500
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "耐克",
+    "file": "耐克.jpg",
+    "bounds": {
+      "width": 164,
+      "height": 110,
+      "x": 0,
+      "y": 25.5,
+      "visibleWidth": 164,
+      "visibleHeight": 60
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "联想",
+    "file": "联想.webp",
+    "bounds": {
+      "width": 658,
+      "height": 211,
+      "x": 60.5,
+      "y": 39.5,
+      "visibleWidth": 543,
+      "visibleHeight": 114
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "自由点",
+    "file": "自由点.png",
+    "bounds": {
+      "width": 2824,
+      "height": 1596,
+      "x": 89.5,
+      "y": 157.5,
+      "visibleWidth": 2577,
+      "visibleHeight": 1296
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "苏菲",
+    "file": "苏菲.png",
+    "bounds": {
+      "width": 2480,
+      "height": 1392,
+      "x": 93.5,
+      "y": 122.5,
+      "visibleWidth": 2293,
+      "visibleHeight": 1137
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "荣耀",
+    "file": "荣耀.png",
+    "bounds": {
+      "width": 1564,
+      "height": 982,
+      "x": 229.5,
+      "y": 443.5,
+      "visibleWidth": 1037,
+      "visibleHeight": 204
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "蒙牛",
+    "file": "蒙牛.webp",
+    "bounds": {
+      "width": 658,
+      "height": 221,
+      "x": 11.5,
+      "y": 15.5,
+      "visibleWidth": 634,
+      "visibleHeight": 189
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "谷雨",
+    "file": "谷雨.png",
+    "bounds": {
+      "width": 758,
+      "height": 376,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 758,
+      "visibleHeight": 376
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "赵一鸣零食",
+    "file": "赵一鸣零食.png",
+    "bounds": {
+      "width": 700,
+      "height": 179,
+      "x": 50.5,
+      "y": 33.5,
+      "visibleWidth": 599,
+      "visibleHeight": 112
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "迪奥",
+    "file": "迪奥.png",
+    "bounds": {
+      "width": 500,
+      "height": 500,
+      "x": 42.5,
+      "y": 191.5,
+      "visibleWidth": 415,
+      "visibleHeight": 117
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "锐澳rio",
+    "file": "锐澳rio.png",
+    "bounds": {
+      "width": 1240,
+      "height": 1240,
+      "x": 98.5,
+      "y": 419.5,
+      "visibleWidth": 1052,
+      "visibleHeight": 339
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "阿迪达斯",
+    "file": "阿迪达斯.jpg",
+    "bounds": {
+      "width": 164,
+      "height": 110,
+      "x": 0,
+      "y": 5.5,
+      "visibleWidth": 164,
+      "visibleHeight": 99
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "TOP TOY",
+    "file": "TOP TOY.png",
+    "bounds": {
+      "width": 114,
+      "height": 114,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 114,
+      "visibleHeight": 114
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "百威",
+    "file": "百威.png",
+    "bounds": {
+      "width": 240,
+      "height": 156,
+      "x": 49.5,
+      "y": 9.5,
+      "visibleWidth": 138,
+      "visibleHeight": 137,
+      "shape": "round"
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "宝洁",
+    "file": "宝洁.png",
+    "bounds": {
+      "width": 240,
+      "height": 156,
+      "x": 49.5,
+      "y": 9.5,
+      "visibleWidth": 138,
+      "visibleHeight": 137,
+      "shape": "round"
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "惠普",
+    "file": "惠普.webp",
+    "bounds": {
+      "width": 658,
+      "height": 638,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 658,
+      "visibleHeight": 638,
+      "shape": "round"
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "茅台",
+    "file": "茅台.webp",
+    "bounds": {
+      "width": 658,
+      "height": 658,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 658,
+      "visibleHeight": 658,
+      "shape": "round"
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "徐福记",
+    "file": "徐福记.png",
+    "bounds": {
+      "width": 2301,
+      "height": 2034,
+      "x": 333.735,
+      "y": 112.735,
+      "visibleWidth": 1700.5300000000002,
+      "visibleHeight": 1700.5300000000002,
+      "shape": "round"
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "妮维雅",
+    "file": "妮维雅.webp",
+    "bounds": {
+      "width": 658,
+      "height": 658,
+      "x": 90.555,
+      "y": 90.555,
+      "visibleWidth": 476.89000000000004,
+      "visibleHeight": 476.89000000000004,
+      "shape": "round"
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "卫龙",
+    "file": "卫龙.png",
+    "bounds": {
+      "width": 2000,
+      "height": 1327,
+      "x": 65.5,
+      "y": 187.5,
+      "visibleWidth": 1857,
+      "visibleHeight": 1063
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "小米",
+    "file": "小米.webp",
+    "bounds": {
+      "width": 240,
+      "height": 240,
+      "x": 21.5,
+      "y": 21.5,
+      "visibleWidth": 197,
+      "visibleHeight": 197
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "可比克",
+    "file": "可比克.webp",
+    "bounds": {
+      "width": 394,
+      "height": 393,
+      "x": 5.98,
+      "y": 8.98,
+      "visibleWidth": 384.03999999999996,
+      "visibleHeight": 379.03999999999996,
+      "shape": "round"
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "乐高",
+    "file": "乐高.webp",
+    "bounds": {
+      "width": 400,
+      "height": 186,
+      "x": 62.5,
+      "y": 24.5,
+      "visibleWidth": 283,
+      "visibleHeight": 136
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "乐事",
+    "file": "乐事.png",
+    "bounds": {
+      "width": 240,
+      "height": 156,
+      "x": 49.5,
+      "y": 9.5,
+      "visibleWidth": 138,
+      "visibleHeight": 134,
+      "shape": "round"
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "脉动",
+    "file": "脉动.png",
+    "bounds": {
+      "width": 2000,
+      "height": 1219,
+      "x": 176.5,
+      "y": 236.5,
+      "visibleWidth": 1651,
+      "visibleHeight": 748
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "欧莱雅",
+    "file": "欧莱雅.png",
+    "bounds": {
+      "width": 800,
+      "height": 274,
+      "x": 90.5,
+      "y": 16.5,
+      "visibleWidth": 620,
+      "visibleHeight": 243
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "甄稀",
+    "file": "甄稀.png",
+    "bounds": {
+      "width": 433,
+      "height": 306,
+      "x": 64.5,
+      "y": 52.5,
+      "visibleWidth": 304,
+      "visibleHeight": 201
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "洽洽",
+    "file": "洽洽.png",
+    "bounds": {
+      "width": 1118,
+      "height": 508,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 1118,
+      "visibleHeight": 508
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "绿箭",
+    "file": "绿箭.jpg",
+    "bounds": {
+      "width": 1618,
+      "height": 542,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 1618,
+      "visibleHeight": 542
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "妍丽",
+    "file": "妍丽.jpg",
+    "bounds": {
+      "width": 800,
+      "height": 800,
+      "x": 95.5,
+      "y": 342.5,
+      "visibleWidth": 611,
+      "visibleHeight": 111
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "乐而雅",
+    "file": "乐而雅.png",
+    "bounds": {
+      "width": 461,
+      "height": 398,
+      "x": 96.5,
+      "y": 50.5,
+      "visibleWidth": 299,
+      "visibleHeight": 292
+    },
+    "displayHeight": 18,
+    "kind": "graphic"
+  },
+  {
+    "name": "可口可乐",
+    "file": "可口可乐.jpg",
+    "bounds": {
+      "width": 956,
+      "height": 955,
+      "x": 49.5,
+      "y": 343.5,
+      "visibleWidth": 855,
+      "visibleHeight": 265
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  },
+  {
+    "name": "舒客",
+    "file": "舒客.png",
+    "bounds": {
+      "width": 1300,
+      "height": 540,
+      "x": 0,
+      "y": 0,
+      "visibleWidth": 1300,
+      "visibleHeight": 540
+    },
+    "displayHeight": 15.384615384615385,
+    "kind": "wordmark"
+  }
+]
